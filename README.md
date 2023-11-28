@@ -6,7 +6,7 @@ Welcome to 5Hub, a curated collection of 5 interactive websites built with HTML,
 
 | S.No | Website Name | Preview Video |
 |------|--------------|---------------|
-| 1    | Space Odyssey | [Watch Video](#) |
+| 1    | Space Odyssey | [Watch Video](https://drive.google.com/file/d/1AHdYOy1h33BY2uWpqPi27uuGlv3j1ym-/view?usp=sharing) |
 | 2    | Pixel Playground | [Watch Video](#) |
 | 3    | Infinite Gallery | [Watch Video](#) |
 | 4    | Neon Dreams | [Watch Video](#) |
